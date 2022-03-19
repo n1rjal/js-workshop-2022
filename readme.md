@@ -4,7 +4,7 @@
 
 This workshop covers basics of Javascript with hands on. This also teases some concepts of advanced JS.
 
-## Use this for link
+## Use this for google slide
 [https://docs.google.com/presentation/d/1XXsP2hK4HB8p0mbjUt3rrmCUhxBn0O6OUtU_PiRNPcw/edit?usp=sharing](https://docs.google.com/presentation/d/1XXsP2hK4HB8p0mbjUt3rrmCUhxBn0O6OUtU_PiRNPcw/edit?usp=sharing)
 
 ## Who is this aimed for ?
